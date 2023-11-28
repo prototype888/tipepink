@@ -109,7 +109,7 @@ section {
 
 .home-content .text-animate {
     position: relative;
-    width: 20.8rem;
+    width: 38.8rem;
 }
 
 .home-content .text-animate h3 {
@@ -120,7 +120,7 @@ section {
     background-image: linear-gradient(var(--main-color),var(--main-color));
     background-repeat: no-repeat;
     -webkit-background-clip: text;
-    background-position: 20.8rem 0;
+    background-position: 38.8rem 0;
 
 }
 
@@ -927,7 +927,7 @@ section:nth-child(odd) .animate.scroll, .footer .animate.scroll {
 /* KEYFRAME ANIMATION */
 @keyframes homeBgText {
     0%,10%,100% {
-        background-position: -20.8rem 0;
+        background-position: -38.8rem 0;
     }
     65%,85% {
         background-position: 0 0;
